@@ -53,4 +53,4 @@ This project offers a comprehensive Jupyter notebook designed to analyze and pre
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
